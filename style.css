@@ -427,7 +427,7 @@ body{
     border: 2px solid  rgba(255, 255, 0, 0.8);
     box-shadow: 0 0 10px rgba(255, 255, 0, 0.8);
     border-radius: 25px;
-    animation: bounce 2s infinite;
+/*     animation: bounce 2s infinite; */
     text-align: center;
 }
 
